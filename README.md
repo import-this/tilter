@@ -1,2 +1,2 @@
-# tilter
-Tilt phone for fun!
+# Tilter
+TILT PHONE FOR FUN!
